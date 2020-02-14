@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Favourite Places </string>
+    <string name="api_key">AIzaSyAlVxJmPqdVc9Kxk67BAgNlrDb1rClhzVo</string>
+    <string name="api_key_places">AIzaSyB45lwuNXNnXYsc3WHA1QyJKIkxqE-Rb7A</string>
+    <string-array name="typesofmaps">
+        <item>Choose Map Type</item>
+        <item>Hybrid</item>
+        <item>Default</item>
+        <item>Terrain</item>
+        <item>Satellite</item>
+
+    </string-array>
+</resources>

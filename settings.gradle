@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='satveer_C0769247_labassignment'
